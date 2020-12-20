@@ -1,0 +1,1 @@
+String AppTitle = "pink boat";

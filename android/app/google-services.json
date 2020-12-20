@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "653388001925",
+    "firebase_url": "https://pinkboat-932f9.firebaseio.com",
+    "project_id": "pinkboat-932f9",
+    "storage_bucket": "pinkboat-932f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653388001925:android:365dc5dfd2f084174defec",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653388001925-9m2rs0ib8ed9bq2pojgljg0uqi8qhin1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKx1xHO7818pJlC8kndxlDowp9vAj_YE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653388001925-9m2rs0ib8ed9bq2pojgljg0uqi8qhin1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
